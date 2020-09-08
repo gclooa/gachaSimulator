@@ -1,0 +1,13 @@
+<resources>
+    <!-- Title of app -->
+    <string name="app_name">PA1B: Prize roller</string>
+
+    <!-- Default string for count TextView -->
+    <string name="default_count">0</string>
+
+    <!-- Button label for add button -->
+    <string name="add_button">Add Funds</string>
+
+    <!-- Button label for roll button -->
+    <string name="roll_button">Roll! (Cost: 30)</string>
+</resources>
